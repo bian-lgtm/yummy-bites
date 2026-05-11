@@ -1,0 +1,39 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  /* Yummy Bites Brand Colors — Updated */
+  --yb-yellow: #F5C842;
+  --yb-yellow-light: #FDE988;
+  --yb-orange: #EE5729;
+  --yb-orange-light: #FF7A52;
+  --yb-green: #21B681;
+  --yb-green-dark: #178A60;
+  --yb-cream: #FFFBF0;
+  --yb-warm: #FFF5E0;
+  --yb-brown: #3E2000;
+  --yb-brown-mid: #7A4A1E;
+  --yb-white: #FFFFFF;
+
+  --font-display: var(--font-fredoka), 'Fredoka One', cursive;
+  --font-body: var(--font-fredoka), 'Fredoka One', cursive;
+
+  --radius-sm: 8px;
+  --radius-md: 16px;
+  --radius-lg: 24px;
+  --radius-xl: 40px;
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: var(--font-body);
+  background: var(--yb-cream);
+  color: var(--yb-brown);
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4 { font-family: var(--font-display); line-height: 1.15; font-weight: 700; }
+img { max-width: 100%; display: block; }
+a { text-decoration: none; color: inherit; }
+button { cursor: pointer; border: none; font-family: var(--font-body); }

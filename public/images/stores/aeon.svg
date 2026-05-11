@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80">
+  <rect width="200" height="80" fill="white" rx="8"/>
+  <rect width="200" height="80" fill="none" stroke="#E0E0E0" stroke-width="1" rx="8"/>
+  <text x="100" y="52" font-family="Arial Black,Arial" font-weight="900" font-size="36" fill="#CC0000" text-anchor="middle">AEON</text>
+</svg>

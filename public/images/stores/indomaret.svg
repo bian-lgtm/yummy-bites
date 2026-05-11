@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80">
+  <rect width="200" height="80" fill="#E8001C" rx="8"/>
+  <text x="100" y="30" font-family="Arial Black,Arial" font-weight="900" font-size="11" fill="white" text-anchor="middle">INDOMARET</text>
+  <rect x="20" y="36" width="160" height="3" fill="white" opacity="0.5"/>
+  <text x="100" y="58" font-family="Arial,sans-serif" font-size="10" fill="white" text-anchor="middle">Minimarket Indonesia</text>
+</svg>
